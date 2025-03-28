@@ -47,7 +47,7 @@ Animepedia/
 Si deseas contribuir a **Animepedia**, siéntete libre de hacer un fork del proyecto y enviar un pull request con tus mejoras.
 
 ## Contacto
-Para dudas o sugerencias, contáctame en [tuemail@example.com](mailto:tuemail@example.com).
+Para dudas o sugerencias, contáctame en [ivan.varela2@educa.madrid.org](mailto:ivan.varela2@educa.madrid.org).
 
 ---
 Hecho con ❤️ para los fans del anime.
