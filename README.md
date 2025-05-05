@@ -13,7 +13,6 @@ Animepedia es una plataforma diseñada para ofrecer información sobre animes po
 - **HTML5**: Estructura principal del sitio.
 - **CSS3**: Estilos y diseño responsivo.
 - **Google Fonts**: Tipografía personalizada "Audiowide".
-- **JavaScript** (próximamente): Para agregar interactividad como selección aleatoria de anime.
 
 ## Estructura del Proyecto
 ```
@@ -26,7 +25,6 @@ Animepedia/
 │   ├── Jujutsukaisen.png
 │   ├── search.png
 │   ├── random.png
-├── random.js
 └── README.md
 ```
 
@@ -38,13 +36,6 @@ Animepedia/
 2. Abre `index.html` en tu navegador.
 3. Disfruta explorando la información de tus animes favoritos.
 
-## Mejoras Futuras
-- Agregar una API para obtener información en tiempo real sobre animes.
-- Implementación de una base de datos para usuarios y listas personalizadas.
-- Mejora en la UI/UX con animaciones CSS y JavaScript.
-
-## Contribuciones
-Si deseas contribuir a **Animepedia**, siéntete libre de hacer un fork del proyecto y enviar un pull request con tus mejoras.
 
 ## Contacto
 Para dudas o sugerencias, contáctame en [ivan.varela2@educa.madrid.org](mailto:ivan.varela2@educa.madrid.org).
